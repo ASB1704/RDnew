@@ -1,0 +1,27 @@
+.CurrCitybox {
+  border: 2px solid rgb(204, 91, 91);
+  height: 40vh;
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  color: #fff;
+}
+.CurrCitybox #Name {
+  font-size: 2rem;
+}
+.CurrCitybox #Temp {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 2rem;
+}
+.CurrCitybox .TempWinddetail {
+  display: flex;
+  gap: 0.5rem;
+}
+.CurrCitybox .OtherWetherdetails {
+  display: flex;
+  gap: 0.5rem;
+}/*# sourceMappingURL=CurrCityInfo.css.map */

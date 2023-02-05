@@ -1,0 +1,16 @@
+.Sidebar {
+    z-index: 998;
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    padding: 1rem 0 2rem 1rem;
+    width: 4rem;
+    font-size: 1.3rem;
+    color: #fff;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+    background-color: #333;
+    border-right: 1px solid rgba(51, 51, 51, 0.199);
+    gap: 2rem;
+  }
+  

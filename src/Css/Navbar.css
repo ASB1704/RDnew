@@ -1,0 +1,17 @@
+.Navbar {
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    background: #333;
+    padding: 1rem;
+    padding-right: 2rem;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.178);
+    font-size: 1.2rem;
+  }
+  .navright_items{
+      display: flex;
+      gap: 2rem;
+  }
+  
